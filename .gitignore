@@ -1,0 +1,21 @@
+# Dependencies (npm install se wapas aa jate hain)
+node_modules/
+
+# Embarko deploy key — kabhi commit nahi karni
+.embarko-token
+
+# Freebuff Desktop project marker (local only)
+.freebuff/
+
+# Video editing workspace: raw footage, intermediate renders, frames, logs
+_edit/
+*.mp4
+*.mov
+*.mp3
+
+# Local logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
